@@ -43,7 +43,7 @@
       <div>
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
-        <h1>Arfan <span></span></h1>
+        <h1>Sanket <span></span></h1>
         <a href="#projects" type="button" class="cta">Portfolio</a>
       </div>
     </div>
@@ -210,7 +210,7 @@
           <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" /></div>
           <div class="contact-info">
             <h1>Address</h1>
-            <h2>Fatikchhari, Chittagong, Bangladesh</h2>
+            <h2>At Nagardhan Th Ramtek Dist Nagpur</h2>
           </div>
         </div>
       </div>
@@ -239,7 +239,7 @@
           <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/behance.png" /></a>
         </div>
       </div>
-      <p>Copyright © 2020 Arfan. All rights reserved</p>
+      <p>Copyright © 2020 sanket. All rights reserved</p>
     </div>
   </section>
   <!-- End Footer -->
